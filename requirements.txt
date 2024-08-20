@@ -1,0 +1,8 @@
+openai-whisper
+pillow
+torch
+opencv-python
+yt-dlp
+pydub
+midiutil
+librosa
